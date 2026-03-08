@@ -42,7 +42,7 @@ The project applies multiple EDA techniques to uncover patterns in patient data:
 * Outlier detection
 * Correlation analysis
 * Chi-square statistical testing
-* Data visualization using histograms, density plots, scatter plots, and heatmaps
+* Data visualisation using histograms, density plots, scatter plots, and heatmaps
 
 These techniques help identify relationships between medical variables and survival outcomes.
 
